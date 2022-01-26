@@ -6,11 +6,11 @@
   "env": {
     "TOKEN": {
       "description": "Dapatkan di @botfather",
-      "value": ""
+      "value": "5244292413:AAHlTJRAmlctw1h39HHy6kXRJnsxVsuHOgI"
     },
     "OWNER": {
       "description": "Isi dengan username kalian tanpa tanda @",
-      "value": "kenkanasw"
+      "value": "av19762"
     },
     "GROUP": {
       "description": "Isi dengan username group kalian tanpa tanda @ kalau gak punya gak usah isi",
